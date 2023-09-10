@@ -1,0 +1,4 @@
+﻿  TEST_ANOTHER.cpp
+G:\Львовское Игра\Proj2\TEST_ANOTHER\TEST_ANOTHER\TEST_ANOTHER.cpp(28,27): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+G:\Львовское Игра\Proj2\TEST_ANOTHER\TEST_ANOTHER\TEST_ANOTHER.cpp(48,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  TEST_ANOTHER.vcxproj -> G:\Львовское Игра\Proj2\TEST_ANOTHER\x64\Debug\TEST_ANOTHER.exe
